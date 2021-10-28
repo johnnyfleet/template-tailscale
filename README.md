@@ -14,7 +14,7 @@ Click the button below to start a new development environment:
 
 Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
 
-Removing moniro version to test things out!
+Removing minor version to test things out! Really like Tailscale!
 
 ### An existing project
 
